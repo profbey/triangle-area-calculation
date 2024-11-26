@@ -9,7 +9,7 @@ Alan = √(s(s-a)(s-b)(s-c)) formuluyle hesaplanir.
 
 """
 
-print('Method for calculating the area of ​​a triangle with only known sides')
+print('Method for calculating the area of a triangle with only known sides')
 
 from math import sqrt
 
